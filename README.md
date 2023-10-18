@@ -1,4 +1,5 @@
 # getpowerperc_rust
+It shows the remaining power percentage. But in rust language!
 ## How to run project:
 Just run:
 ```
